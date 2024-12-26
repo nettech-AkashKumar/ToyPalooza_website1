@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
+.shopagecard{
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 50%;
+    color: #7F3C9E;
+    font-family: "Matemasie", serif;
+    font-size: 30px;
+    width: 130px;
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media (max-width:425px){
+    #shopcardnone{
+        display: none;
+        background-color: red;
+       
+    }
+}

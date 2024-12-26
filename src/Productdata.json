@@ -1,0 +1,106 @@
+{
+    "products": [
+      {
+        "title": "Toy Car",
+        "subtitle": "Speedster Edition",
+        "old_price": 500,
+        "new_price": 300,
+        "level_range": "4-8",
+      "image_url": "/Products/bag.jpg"
+      },
+     
+      {
+        "title": "Building Blocks",
+        "subtitle": "Creative Kit",
+        "old_price": 1000,
+        "new_price": 750,
+        "level_range": "5-10",
+        "image_url": "/Products/bigbottle.jpg"
+      },
+      {
+        "title": "Puzzle Set",
+        "subtitle": "Brain Teaser",
+        "old_price": 300,
+        "new_price": 200,
+        "level_range": "3-6",
+        "image_url": "/Products/biggerbottle.jpg"
+      },
+      {
+        "title": "Dollhouse",
+        "subtitle": "Luxury Edition",
+        "old_price": 1200,
+        "new_price": 900,
+        "level_range": "8-14",
+        "image_url": "/Products/box2.jpg"
+      },
+    
+    
+      {
+        "title": "Robot Toy",
+        "subtitle": "Interactive AI",
+        "old_price": 2000,
+        "new_price": 1800,
+        "level_range": "10-15",
+        "image_url": "/Products/box2.jpg"
+      },
+      {
+        "title": "Art Kit",
+        "subtitle": "Painting & Drawing",
+        "old_price": 700,
+        "new_price": 500,
+        "level_range": "5-10",
+        "image_url":"/Products/cardimage.jpg"
+      },
+      {
+        "title": "Musical Keyboard",
+        "subtitle": "Mini Piano",
+        "old_price": 1500,
+        "new_price": 1300,
+        "level_range": "6-12",
+        "image_url": "/Products/chocolate.jpg"
+      },
+      {
+        "title": "Musical Keyboard",
+        "subtitle": "Mini Piano",
+        "old_price": 1500,
+        "new_price": 1300,
+        "level_range": "6-12",
+        "image_url": "/Products/bottle3.jpg"
+      },
+      {
+        "title": "Musical Keyboard",
+        "subtitle": "Mini Piano",
+        "old_price": 1500,
+        "new_price": 1300,
+        "level_range": "6-12",
+        "image_url": "/Products/bottle3.jpg"
+      },
+      {
+        "title": "Musical Keyboard",
+        "subtitle": "Mini Piano",
+        "old_price": 1500,
+        "new_price": 1300,
+        "level_range": "6-12",
+        "image_url": "/Products/bottle3.jpg"
+      },
+      {
+        "title": "Musical Keyboard",
+        "subtitle": "Mini Piano",
+        "old_price": 1500,
+        "new_price": 1300,
+        "level_range": "6-12",
+        "image_url": "/Products/bottle3.jpg"
+      },
+      {
+        "title": "Musical Keyboard",
+        "subtitle": "Mini Piano",
+        "old_price": 1500,
+        "new_price": 1300,
+        "level_range": "6-12",
+        "image_url": "/Products/bottle3.jpg"
+      }
+     
+     
+     
+    ]
+  }

@@ -1,0 +1,36 @@
+.filter-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* gap: 38px; */
+    padding: 10px 0px;
+  
+  }
+
+  .filtertype{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .filter-bar select {
+    padding: 8px 21px;
+    border: 1px solid #ccc;
+    border-radius: 23px;
+    font-size: 14px;
+    outline: none;
+    background-color: #f3f3f3;
+    cursor: pointer;
+    margin: 7px 10px;
+    font-size: 13px;
+  }
+  
+  .filter-bar .sort-by {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  
+  .filter-bar .sort-by label {
+    font-size: 14px;
+    color: #555;
+  }
